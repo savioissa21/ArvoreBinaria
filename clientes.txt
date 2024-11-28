@@ -1,0 +1,8 @@
+João Silva|12345678900|joao.silva@gmail.com|11987654321|Rua das Flores, 123
+Maria Oliveira|98765432100|maria.oliveira@gmail.com|21987654321|Av. Brasil, 456
+Carlos Pereira|65498732100|carlos.pereira@gmail.com|31987654321|Rua da Paz, 789
+Ana Santos|32165498700|ana.santos@gmail.com|41987654321|Praça da Liberdade, 321
+Pedro Costa|98712365400|pedro.costa@gmail.com|51987654321|Rua do Sol, 654
+marcos|123654|marcos@gmail.com|6499878978|rua 99
+ruan|123456|ruan@gmail.com|6499878411|Rua 589
+Athur|789987|789arthur@gmail.com|649987878987|rua789
